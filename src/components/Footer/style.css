@@ -1,0 +1,18 @@
+.socialmedia{
+    background-color: #fff;
+    height: 8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.socialmedia-icon{
+    margin: 0 1rem;
+
+}
+
+.socialmedia-icon :hover{
+    color: #623197;
+    transition: color 0.3s ease-out;
+    transform: scale(1.1);
+}

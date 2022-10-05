@@ -1,0 +1,44 @@
+.service-grid{
+    background-color: #fff;
+    width: 250px;
+    height: 210px;
+    padding: 1.5rem;
+    color: rgb(36, 36, 36);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 1.5rem;
+    border: 1px solid #000;
+    
+}
+
+.service-grid h2{
+    line-height: 29px;
+    margin: 0.4rem 0;
+    color: #623197;
+    text-align: center;
+    
+}
+
+
+
+.service-grid-icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(226, 234, 241);
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    margin-bottom: 1rem;
+}
+
+.service-grid-icon img{
+    width: 50%;
+    height: 50%;
+}
+.service-grid:hover{
+    transform: scale(1.01);
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
