@@ -47,9 +47,11 @@ height: 48px;
         align-items: center;
         justify-content: center;
         gap: 2rem;
+        padding:2rem;
     }
     .content{
         width: 50%;
+        margin-left: 1rem;
     }
     .content h1  {
         margin: 1rem 0;
