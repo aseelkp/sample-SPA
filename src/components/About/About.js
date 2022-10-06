@@ -14,7 +14,7 @@ const About = () => {
         </div>
         <div className="content">
           <p>
-            At Baytech, we are passionate about technology. Our clients come to
+            At Tech World, we are passionate about technology. Our clients come to
             us seeking customized, skillfully crafted business applications. Our
             longevity is due to the skill and efficiency of our team of senior
             software engineers, project managers, and devops staff. <br /> <br /> We
