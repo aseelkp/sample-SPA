@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sample-SPA/static/css/main.e502cd6b.css",
+    "main.css": "/sample-SPA/static/css/main.59505fd4.css",
     "main.js": "/sample-SPA/static/js/main.d375338a.js",
     "static/js/787.bc9ecdee.chunk.js": "/sample-SPA/static/js/787.bc9ecdee.chunk.js",
     "static/media/tech.png": "/sample-SPA/static/media/tech.999a7fa827eaf5d875e8.png",
@@ -10,12 +10,12 @@
     "static/media/UI.svg": "/sample-SPA/static/media/UI.0e299f759ad378a0768bf728ee34f514.svg",
     "index.html": "/sample-SPA/index.html",
     "static/media/appDev.svg": "/sample-SPA/static/media/appDev.c6e7241f5ce40a7db8da0ad2dc2cede2.svg",
-    "main.e502cd6b.css.map": "/sample-SPA/static/css/main.e502cd6b.css.map",
+    "main.59505fd4.css.map": "/sample-SPA/static/css/main.59505fd4.css.map",
     "main.d375338a.js.map": "/sample-SPA/static/js/main.d375338a.js.map",
     "787.bc9ecdee.chunk.js.map": "/sample-SPA/static/js/787.bc9ecdee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e502cd6b.css",
+    "static/css/main.59505fd4.css",
     "static/js/main.d375338a.js"
   ]
 }
